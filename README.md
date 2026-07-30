@@ -13,6 +13,7 @@
 
 
 💻 Frontend Developer who enjoys building clean, responsive websites.
+
 🎨 UI/UX Designer passionate about creating intuitive digital experiences.
 
 🌱 Currently learning JavaScript, Tailwind CSS, and React.
